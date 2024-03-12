@@ -1,4 +1,4 @@
-# University of Helsinki's MOOC Java Programming I
+# University of Helsinki's MOOC Java Programming II
 Solutions to part 2 of the University of Helsinki's MOOC Java Programming course (2013 version). All exercises for part 2 are listed.
 All solutions are my own and may not be the most efficient solution. Should only be used for comparison and education
 purposes. 
